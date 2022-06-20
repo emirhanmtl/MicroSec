@@ -48,7 +48,7 @@ Docker ve proje ile ilgili yaşadığınız problemler ve merak ettikleriniz iç
   
   2. Yusuf ÇETİNKAYA    ==>     email : 23yusufcetinkaya@gmail.com     --   Instagram :  yusuf.cetinky    --
 
-  3. Emirhan MUTLU      ==>     email : emirhanmutlu35@gmail.com       --   Instagram :  emirhanmtl       --    Linkedin  : emirhanmtl
+  3. Emirhan MUTLU      ==>     email : emirhanmutlu35@gmail.com       --   Linkedin  : emirhanmtl
 
   4. Gizem BULUT        ==>     email : bulutgizem99@gmail.com         --   Linkedin  :  gizembulut       --    Telegram  : t.me/giizembulutt
 
